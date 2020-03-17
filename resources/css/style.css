@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: cadetblue;
+}
+#helloWorld {
+    -fx-font-size: 25px;
+}
+#stilButtona {
+    -fx-background-color: chartreuse;
+    -fx-border-style: dashed;
+    -fx-min-width: 130px;
+    -fx-border-radius: 10px;
+    -fx-min-height: 40px;
+}
